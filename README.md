@@ -1,5 +1,9 @@
-### Hi there 👋
-
+### Hi there, I'm Muhammad Rosyid Aminuddin 👋 
+  - 🔭 I’m currently working on golang project that implement microservices architecture
+  - 🌱 I’m currently exploring about golang and system architecture
+  - 👯 I’m looking to collaborate on golang project, laravel project, or node.js project
+  - 💬 Feel free to ask me about system architecture or backend development
+  - 📫 How to reach me: m.rosyidaminuddin@gmail.com
 <!--
 **falvracoadin/falvracoadin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
